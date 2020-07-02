@@ -1,0 +1,43 @@
+h1
+{ font-weight: bold;
+font-size: 110px;
+letter-spacing: 5px;
+text-transform: uppercase;
+font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+background: #B2FEFA; 
+}
+
+p
+{font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 1.3px;
+  font-family:'Courier New', Courier, monospace;
+  
+  background:  #B2FEFA; 
+  
+padding: 20px;
+
+}
+div{
+  text-align: center;
+ 
+  
+}
+img{
+  width: 600px;
+  text-align: center;
+
+}
+ol
+{
+  font-size: 30px;
+  line-height: 35px;
+  letter-spacing: 1.3px;
+  font-family:'Courier New', Courier, monospace;
+
+  background: #B2FEFA;  
+  
+}
+body{
+  background-color: lightcyan;
+}
